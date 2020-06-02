@@ -539,7 +539,7 @@ geof:RangeZone a skos:Concept ;
 geof:Ridge a skos:Concept ;
     dcterms:source <https://en.wikipedia.org/wiki/Ridge> ;
     skos:broader geof:StructuralFeature ;
-    skos:definition "A ridge or a mountain ridge is a geographical feature consisting of a chain of mountains or hills that form a continuous elevated crest for some distance. The sides of the ridge slope away from narrow top on either side. The lines along the crest formed by the highest points, with the terrain dropping down on either sides, are called the ridgelines. Ridges are usually termed hills or mountains as well, depending on size. (Adapted from Wikipedia)"@en ;
+    skos:definition "A basement ridge of known or unknown structure."@en ;
     skos:inScheme <http://linked.data.gov.au/def/geofeatures> ;
     skos:notation "gfrdg" ;
     skos:prefLabel "ridge"@en .
